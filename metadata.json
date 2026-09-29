@@ -1,0 +1,6 @@
+{
+  "name": "Website Quản Lý Phòng Trọ - TroManage",
+  "description": "Hệ thống quản lý nhà trọ và phòng cho thuê dành cho chủ nhà và người thuê phòng: quản lý phòng, người thuê, hợp đồng, chỉ số điện nước, hóa đơn và lịch sử thanh toán.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
